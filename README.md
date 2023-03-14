@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Rockyraven)
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Express.Js, CSS5, TailWind.CSS, Redux, MongoDB
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Listen music :notes: while coding :computer:
 
