@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React, Express.Js, CSS5, TailWind.CSS, Redux, MongoDB
 - 😄 Pronouns: He/His
-- Have a look on my portfolio <a href="https://rockyportfolio.vercel.app/">Click TO VISIT PORTFOLIO</a>
+- Have a look on my portfolio <a href="https://rockyportfolio.vercel.app/">CLICK TO VISIT PORTFOLIO</a>
 - ⚡ Fun fact: Listen music :notes: while coding :computer:
 
 
