@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+ ![](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white)
   
 </div>
 
@@ -35,6 +36,6 @@
 -----
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rockyraven&&show_icons=true&title_color=#bcffba&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-  <p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=rockyraven&](https://github-readme-streak-stats.herokuapp.com/?user=rockyraven&)" alt="mratunjya" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockyraven&" alt="rocky" /></p>
 </div>
 
