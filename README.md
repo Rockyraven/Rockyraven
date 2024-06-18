@@ -1,11 +1,14 @@
-### Hello 👋 , I'm Rocky.
+### Hello 👋 , I'm Rocky passed MCA from NIT Raipur.
 
 ![](https://komarev.com/ghpvc/?username=Rockyraven)
 
-- 🌱 I’m currently learning React, Express.Js, CSS5, TailWind.CSS, Redux, MongoDB
+
+- 🌱 I’m MERN Full stack developer currently learning Microserices Artitecture, Socket.io, Kafka and Redis
 - 😄 Pronouns: He/His
-- Have a look on my portfolio <a href="https://rockyportfolio.vercel.app/">CLICK TO VISIT PORTFOLIO</a>
+- Have a look on my portfolio <a href="https://rockyportfolio.vercel.app/">Click to visit Portfolio</a>
 - ⚡ Fun fact: Listen music :notes: while coding :computer:
+
+
 
 
 -----
@@ -18,9 +21,19 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
- ![](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+
   
 </div>
 
